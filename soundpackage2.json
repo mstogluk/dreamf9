@@ -18,13 +18,13 @@
 				"id": "TR"
 			},
 			{
-				"icon": "https://mstogluk.tk/dreamef9/tc-bayrak.png",
-				"listen": "https://mstogluk.tk/dreamef9/turkce.alev.ses.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
 				"name": {
 					"default": "TÜRKÇE_SES_ALEV_1"
 				},
 				"desc": {},
-				"download": "https://mstdreamef9.000webhostapp.com/alev1.tar.gz",
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/alev1.tar.gz",
 				"md5sum": "84c4dba0bb9a50975a89cd09439f7ce2",
 				"size": 3719233,
 				"id": "TR2"
