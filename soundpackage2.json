@@ -1,0 +1,106 @@
+{
+	"code": 0,
+	"data": {
+		"image": {
+			"url": ""
+		},
+		"voices": [
+			{
+				"icon": "http://whatssapp.nl/bayrak.png",
+				"listen": "http://whatssapp.nl/T%c3%bcrk%c3%a7e.alev.ses%5b1%5d.mp3",
+				"name": {
+					"default": "TÜRKÇE_SES_ALEV"
+				},
+				"desc": {},
+				"download": "http://whatssapp.nl/turkish.tar.gz",
+				"md5sum": "cd12ab9cbbb7ac1894eea7c948459ffe",
+				"size": 3311826,
+				"id": "TR"
+			},
+			{
+				"icon": "https://mstogluk.tk/dreamef9/tc-bayrak.png",
+				"listen": "https://mstogluk.tk/dreamef9/turkce.alev.ses.mp3",
+				"name": {
+					"default": "TÜRKÇE_SES_ALEV_1"
+				},
+				"desc": {},
+				"download": "https://mstdreamef9.000webhostapp.com/alev1.tar.gz",
+				"md5sum": "84c4dba0bb9a50975a89cd09439f7ce2",
+				"size": 3719233,
+				"id": "TR2"
+			},
+			{
+				"icon": "https://mstdreamef9.000webhostapp.com/tc-bayrak.png",
+				"listen": "https://mstdreamef9.000webhostapp.com/turkce.alev.ses.mp3",
+				"name": {
+					"default": "TÜRKÇE_SES_ALEV_MÜZİKLİ"
+				},
+				"desc": {},
+				"download": "https://mstdreamef9.000webhostapp.com/alevmuzik.tar.gz",
+				"md5sum": "9e98ba414894933cc048dc2438e59f4b",
+				"size": 4936161,
+				"id": "TR3"
+			},
+			{
+				"icon": "https://dreamef9grup.000webhostapp.com/Starwars2.png",
+				"listen": "https://dreamef9grup.000webhostapp.com/YaniyorumHele.ogg",
+				"name": {
+					"default": "Fidayda :)"
+				},
+				"desc": {},
+				"download": "https://dreamef9grup.000webhostapp.com/StarWars.tar.gz",
+				"md5sum": "849accd4248576ce29240bf31a476011",
+				"size": 19104572,
+				"id": "SW"
+			},
+			{
+				"icon": "http://whatssapp.nl/dirilis-min.png",
+				"listen": "http://whatssapp.nl/dirilis.mp3",
+				"name": {
+					"default": "Diriliş Ertuğrul"
+				},
+				"desc": {},
+				"download": "https://mstogluk.tk/dreamef9/DirilisErt.tar.gz",
+				"md5sum": "6ddc7558de4c0130acd1f0e54f1a850b",
+				"size": 3351371,
+				"id": "DR"
+			},
+			{
+				"icon": "https://dreamef9grup.000webhostapp.com/Erik.png",
+				"listen": "http://whatssapp.nl/erikdali.mp3",
+				"name": {
+					"default": "erik dalı"
+				},
+				"desc": {},
+				"download": "http://whatssapp.nl/ErikDali.tar.gz",
+				"md5sum": "b6ae6c0565ea11691bb902d01c5b0f6c",
+				"size": 6973316,
+				"id": "ED"
+			},
+			{
+				"icon": "http://66.96.229.152/repo/mi1c/english.png",
+				"listen": "http://66.96.229.152/repo/mi1c/start_clean_d2.mp3",
+				"name": {
+				    "default":"Komik ingilizce_serkan özmen"
+				},
+				"desc":{},
+				"download":"http://66.96.229.152/repo/mi1c/voices/ENd2.tar.gz",
+				"md5sum": "38edcd7b5c62247021401b79e6720b27",
+				"size":1313221,
+				"id": "EN"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/english.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
+				"name": {
+					"default": "Englishwhost"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size": 1161119,
+				"id": "EN2"
+			}
+		]
+	}
+}
