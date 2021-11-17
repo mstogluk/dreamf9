@@ -1,1 +1,58 @@
-
+{
+	"code": 0,
+	"data": {
+		"image": {
+			"url": ""
+		},
+		"voices": [
+			{
+				"icon": "http://whatssapp.nl/bayrak.png",
+				"listen": "http://whatssapp.nl/T%c3%bcrk%c3%a7e.alev.ses%5b1%5d.mp3",
+				"name": {
+					"default": "TÜRKÇE_SES_ALEV"
+				},
+				"desc": {},
+				"download": "http://whatssapp.nl/turkish.tar.gz",
+				"md5sum": "cd12ab9cbbb7ac1894eea7c948459ffe",
+				"size": 3311826,
+				"id": "TR"
+			},
+			{
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"name": {
+					"default": "TÜRKÇE_SES_ALEV_YÜKSEK_SES"
+				},
+				"desc": {},
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/alev1.tar.gz",
+				"md5sum": "5c99bb109b33e4038c8719ae1225488e",
+				"size": 2426895,
+				"id": "TR2"
+			},
+			{
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"name": {
+					"default": "ALEV_MÜZİKLİ"
+				},
+				"desc": {},
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/alevmuzik.tar.gz",
+				"md5sum": "c73a0b1f46ab98dd6cfae02b4bba42b3",
+				"size": 7133523,
+				"id": "TR3"
+			},
+			{
+				"icon": "https://dreamef9grup.000webhostapp.com/Erik.png",
+				"listen": "http://whatssapp.nl/erikdali.mp3",
+				"name": {
+					"default": "erik dalı"
+				},
+				"desc": {},
+				"download": "http://whatssapp.nl/ErikDali.tar.gz",
+				"md5sum": "b6ae6c0565ea11691bb902d01c5b0f6c",
+				"size": 6973316,
+				"id": "ED"
+			}
+		]
+	}
+}
