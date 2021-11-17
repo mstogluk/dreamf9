@@ -24,7 +24,7 @@
 					"default": "TÜRKÇE_SES_ALEV_YÜKSEK_SES"
 				},
 				"desc": {},
-				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/alev1.tar.gz",
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alev1.tar.gz",
 				"md5sum": "5c99bb109b33e4038c8719ae1225488e",
 				"size": 2426895,
 				"id": "TR2"
@@ -48,7 +48,7 @@
 					"default": "ALEV_MÜZİKLİ_YÜKSEK_SES"
 				},
 				"desc": {},
-				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alevmuzik.tar.gz",
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alevmuzik1.tar.gz",
 				"md5sum": "c73a0b1f46ab98dd6cfae02b4bba42b3",
 				"size": 4721076,
 				"id": "TR4"
