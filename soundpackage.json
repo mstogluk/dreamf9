@@ -21,7 +21,7 @@
 				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
 				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
 				"name": {
-					"default": "TÜRKÇE_SES_ALEV_YÜKSEK_SES"
+					"default": "TÜRKÇE_ALEV_YÜKSEK_SES"
 				},
 				"desc": {},
 				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alev1.tar.gz",
@@ -37,21 +37,9 @@
 				},
 				"desc": {},
 				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alevmuzik.tar.gz",
-				"md5sum": "c73a0b1f46ab98dd6cfae02b4bba42b3",
-				"size": 7133523,
+				"md5sum": "21adf9b41612891520f21987937f015c",
+				"size": 4362042,
 				"id": "TR3"
-			},
-			{
-				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
-				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
-				"name": {
-					"default": "ALEV_MÜZİKLİ_YÜKSEK_SES"
-				},
-				"desc": {},
-				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alevmuzik1.tar.gz",
-				"md5sum": "833134933b4428266ecbc6344c1fa972",
-				"size": 4721076,
-				"id": "TR4"
 			},
 			{
 				"icon": "https://dreamef9grup.000webhostapp.com/Erik.png",
