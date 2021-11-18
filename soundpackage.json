@@ -32,7 +32,9 @@
 			{
 				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
 				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
-				"name": {"default": "ALEV_MÜZİKLİ"},
+				"name": {
+					"default": "TÜRKÇE_ALEV_MÜZİKLİ"
+				},
 				"desc": {},
 				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alevmuzik.tar.gz",
 				"md5sum": "6f1753d60e482f450c5377b006e325ca",
