@@ -42,6 +42,18 @@
 				"id": "TR3"
 			},
 			{
+				"icon": "http://whatssapp.nl/dirilis-min.png",
+				"listen": "http://whatssapp.nl/dirilis.mp3",
+				"name": {
+					"default": "Diriliş Ertuğrul"
+				},
+				"desc": {},
+				"download": "http://whatssapp.nl/DirilisErt.tar.gz",
+				"md5sum": "6ddc7558de4c0130acd1f0e54f1a850b",
+				"size": 3351371,
+				"id": "DR"
+			},
+			{
 				"icon": "https://dreamef9grup.000webhostapp.com/Erik.png",
 				"listen": "http://whatssapp.nl/erikdali.mp3",
 				"name": {
@@ -51,7 +63,31 @@
 				"download": "http://whatssapp.nl/ErikDali.tar.gz",
 				"md5sum": "b6ae6c0565ea11691bb902d01c5b0f6c",
 				"size": 6973316,
-				"id": "ED" 
+				"id": "ED"
+			},
+			{
+				"icon": "http://66.96.229.152/repo/mi1c/english.png",
+				"listen": "http://66.96.229.152/repo/mi1c/start_clean_d2.mp3",
+				"name": {
+				    "default":"Komik ingilizce_serkan özmen"
+				},
+				"desc":{},
+				"download":"http://66.96.229.152/repo/mi1c/voices/ENd2.tar.gz",
+				"md5sum": "38edcd7b5c62247021401b79e6720b27",
+				"size":1313221,
+				"id": "EN"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/english.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
+				"name": {
+					"default": "Englishwhost"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size": 1161119,
+				"id": "EN2"
 			}
 		]
 	}
