@@ -66,14 +66,14 @@
 				"id": "DR"
 			},
 			{
-				"icon": "https://dreamef9grup.000webhostapp.com/Erik.png",
-				"listen": "http://whatssapp.nl/erikdali.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/Erik.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/erikdali.mp3",
 				"name": {
 					"default": "erik dalı"
 				},
 				"desc": {},
-				"download": "http://whatssapp.nl/ErikDali.tar.gz",
-				"md5sum": "b6ae6c0565ea11691bb902d01c5b0f6c",
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/erikdali.tar.gz",
+				"md5sum": "7108687",
 				"size": 6973316,
 				"id": "ED"
 			},
