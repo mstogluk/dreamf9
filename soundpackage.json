@@ -18,8 +18,8 @@
 				"id": "TR"
 			},
 			{
-				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
-				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/png/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/mp3/turkce.alev.ses.mp3",
 				"name": {
 					"default": "TÜRKÇE_ALEV_YÜKSEK_SES"
 				},
@@ -30,8 +30,8 @@
 				"id": "TR2"
 			},
 			{
-				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
-				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/png/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/mp3/turkce.alev.ses.mp3",
 				"name": {
 					"default": "TÜRKÇE_ALEV_MÜZİKLİ"
 				},
@@ -42,8 +42,8 @@
 				"id": "TR3"
 			},
 			{
-				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
-				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/png/pinar.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/mp3/turkce.alev.ses.mp3",
 				"name": {
 					"default": "TÜRKÇE_PINAR"
 				},
