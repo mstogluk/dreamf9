@@ -42,6 +42,18 @@
 				"id": "TR3"
 			},
 			{
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/turkce.alev.ses.mp3",
+				"name": {
+					"default": "TÜRKÇE_PINAR"
+				},
+				"desc": {},
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/pinar.tar.gz", 
+				"md5sum": "41733a732116b97b7a9c12c6ba266cc8", 
+				"size": 4790375, 
+				"id": "TR4"
+			},
+			{
 				"icon": "https://dreamef9grup.000webhostapp.com/Starwars2.png",
 				"listen": "https://dreamef9grup.000webhostapp.com/YaniyorumHele.ogg",
 				"name": {
