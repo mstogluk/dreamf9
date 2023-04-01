@@ -55,18 +55,6 @@
 			},
 
 			{
-				"icon": "http://whatssapp.nl/dirilis-min.png",
-				"listen": "http://whatssapp.nl/dirilis.mp3",
-				"name": {
-					"default": "Diriliş Ertuğrul"
-				},
-				"desc": {},
-				"download": "http://whatssapp.nl/DirilisErt.tar.gz",
-				"md5sum": "6ddc7558de4c0130acd1f0e54f1a850b",
-				"size": 3351371,
-				"id": "DR"
-			},
-			{
 				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/Erik.png",
 				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/erikdali.mp3",
 				"name": {
