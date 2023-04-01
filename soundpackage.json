@@ -53,18 +53,7 @@
 				"size": 4787376,
 				"id": "TR4"
 			},
-			{
-				"icon": "https://dreamef9grup.000webhostapp.com/Starwars2.png",
-				"listen": "https://dreamef9grup.000webhostapp.com/YaniyorumHele.ogg",
-				"name": {
-					"default": "Fidayda :)"
-				},
-				"desc": {},
-				"download": "https://dreamef9grup.000webhostapp.com/StarWars.tar.gz",
-				"md5sum": "849accd4248576ce29240bf31a476011",
-				"size": 19104572,
-				"id": "SW"
-			},
+
 			{
 				"icon": "http://whatssapp.nl/dirilis-min.png",
 				"listen": "http://whatssapp.nl/dirilis.mp3",
