@@ -6,15 +6,15 @@
 		},
 		"voices": [
 			{
-				"icon": "http://whatssapp.nl/bayrak.png",
-				"listen": "http://whatssapp.nl/T%c3%bcrk%c3%a7e.alev.ses%5b1%5d.mp3",
+				"icon": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/png/tc-bayrak.png",
+				"listen": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/mp3/turkce.alev.ses.mp3",
 				"name": {
 					"default": "TÜRKÇE_SES_ALEV"
 				},
 				"desc": {},
-				"download": "http://whatssapp.nl/turkish.tar.gz",
-				"md5sum": "cd12ab9cbbb7ac1894eea7c948459ffe",
-				"size": 3311826,
+				"download": "https://raw.githubusercontent.com/mstogluk/dreamf9/main/sesler/alev1.tar.gz",
+				"md5sum": "336e0f1790dd154c9c9f2476fc45a5dc",
+				"size": 3494034,
 				"id": "TR"
 			},
 			{
