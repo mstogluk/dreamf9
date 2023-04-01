@@ -65,30 +65,6 @@
 				"md5sum": "d6aad879f1e2121265f7194a15029fc1",
 				"size": 7108687,
 				"id": "ED"
-			},
-			{
-				"icon": "http://66.96.229.152/repo/mi1c/english.png",
-				"listen": "http://66.96.229.152/repo/mi1c/start_clean_d2.mp3",
-				"name": {
-				    "default":"Komik ingilizce_serkan özmen"
-				},
-				"desc":{},
-				"download":"http://66.96.229.152/repo/mi1c/voices/ENd2.tar.gz",
-				"md5sum": "38edcd7b5c62247021401b79e6720b27",
-				"size":1313221,
-				"id": "EN"
-			},
-			{
-				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/english.png",
-				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
-				"name": {
-					"default": "Englishwhost"
-				},
-				"desc": {},
-				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
-				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
-				"size": 1161119,
-				"id": "EN2"
 			}
 		]
 	}
